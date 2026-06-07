@@ -1,23 +1,19 @@
+//     *
+//    ***
+//   *****
+//  *******
+// *********
 
-let n = 5
+let n = 5;
+
 for (let i = 1; i <= n; i++) {
-    let pattern = ''
-    // row
+    let pattern = '';
+
     for (let s = 1; s <= n - i; s++) {
         pattern += ' '
     }
-    for (let j = 1; j <= i; j++) {
+    for (let k = 1; k <= (2 * i - 1); k++) {
         pattern += '*'
-
     }
     console.log(pattern)
 }
-
-
-// pattern
-
-//     *
-//    **
-//   ***
-//  ****
-// *****

@@ -1,0 +1,143 @@
+LBP001: Even or Odd Number
+LBP002: Weird or Not Weird 
+LBP003: Leap Year or Not
+LBP004: E-commerce company Bookshelf
+LBP005: Next Number from Integer
+LBP006: Free Coffee Cups
+LBP007: Extract Digits from the number
+LBP008: Sum of Digits
+LBP009: Sum of even digits
+LBP010: Sum of odd digits
+LBP011: Sum of prime Digits
+LBP012: Sum of Digits  divisible by 3
+LBP013: Number of digits
+LBP014: Reverse Integer
+LBP015: Duck Number
+LBP016: Number of Occurrences
+LBP017: Paliandrome Number
+LBP018: Check Birth Day
+LBP019: Decimal to Binary
+LBP020: Lucky Customer
+LBP021: Christmas offer
+LBP022: Niven Number 
+LBP023: A Special two digit number
+LBP024: Sum of even numbers 
+LBP025: Celsius to Fahrenheit
+LBP026: Fahrenheit to Celsius 
+LBP027: Find The Sequence Sum
+LBP028: Climbing a stair case
+LBP029: Prime Number or Not
+LBP030: Valid Palindrome
+LBP031: Create PIN using Three given numbers
+LBP032: Count special characters
+LBP033: Discount for the newyears holiday
+LBP034: Email validation
+LBP035: Data Encryption Key
+LBP036: First Capital Letter
+LBP037: Toggle Case of String
+LBP038: Find Number of Misses
+LBP039: Black Jack Function
+LBP040: Secure Data Transmission
+LBP041: One Time Password
+LBP042: Prime Number Application
+LBP043: Newyear Holiday Discount
+LBP044: War of Numbers
+LBP045: Perfect Number
+LBP046: Magic Date
+LBP047: Oddish or Evenish
+LBP048: Video Length
+LBP049: Next Prime
+LBP050: Sum of digits between two numbers
+LBP051: Defanging an IP address
+LBP052: Jewels and Stones
+LBP053: Shuffled String
+LBP054: Get word count
+LBP055: String ending matches second String 
+LBP056: Shuffle the Name
+LBP057: Reverse the order of a String
+LBP058: Re-form the word
+LBP059: Anagrams
+LBP060: Max Occurring Character
+LBP061: Color of a chess board square
+LBP062: Find the Bomb
+LBP063: How many vowels
+LBP064: X's and O's, Nobody knows
+LBP065: Stuttering Function
+LBP066: Repeating Letters
+LBP067: Double Letters
+LBP068: Board Game
+LBP069: Remove Every vowel from a String
+LBP070: Space between each character
+LBP071: VOWEL REPLACER
+LBP072: Say "Hello" Say "Bye"
+LBP073: VALID ZIP CODE
+LBP074: Returns the middle character of a string
+LBP075: Index of first vowel
+LBP076: Longest Word
+LBP077: Print all permutations of a string
+LBP078: Removing Duplicate Characters from a string
+LBP079: Swap corner words and reverse middle characters
+LBP080: Valid Hex Code
+LBP081: Even Length Words
+LBP082: Change Every Letter to the Next Letter
+LBP083: First N Vowels
+LBP084: Is the String is in Order?
+LBP085: Integer to English Words
+LBP086: C*ns*r*d Str*ngs
+LBP087: Parentheses balance
+LBP088: American keyboard
+LBP089: Rotate Strings
+LBP090: Missing Letters
+LBP091: Replace Letters With Position In Alphabet
+LBP092: Replace character with it's occurrence
+LBP093: First non-repeated character
+LBP094: Pangrams
+LBP095: Print First Letter of each Word
+LBP096: Number of vowels
+LBP097: Number of consonants
+LBP098: Check only digits
+LBP099: Capitalize Every word first character
+LBP100: Student Rewarded
+LBP101: Reading and writing an array
+LBP102: Sum of all elements in array
+LBP103: Sum of even numbers in an array
+LBP104: Sum of odd numbers in an array
+LBP105: Sum of prime numbers in an array
+LBP106: Sum of palindrome numbers in an array
+LBP107: Sum of strong numbers in an array
+LBP108: Sum of elements in an array ending with 3
+LBP109: Search for an element in an array
+LBP110: Sort the elements in an array ASC
+LBP111: Sort the elements in an array DESC
+LBP112: Binary search
+LBP113: Max element in an array
+LBP114: Min element in an array
+LBP115: Diff between largest and smallest element in array
+LBP116: Second largest element in an array
+LBP117: Second smallest element in an array
+LBP118: Number of occurrences of an element
+LBP119: Inserting element at first position in an array
+LBP120: Inserting element at last position in an array
+.
+.
+.
+LBP291: BucketId
+LBP292: Decimal to Octal
+LBP293: Sum of adjacent elements
+LBP294: Vaccination Drive List Preparator
+LBP295: Area of the circle
+LBP296: Divisible by 5 or 7
+LBP297: Ending 3
+LBP298: Min and Max
+LBP299: Lucky String
+LBP300: Last three digits
+LBP301: Reverse and Replace
+LBP302: Party on cruise
+LBP303: Airport Security
+LBP304: Chocolate factory
+LBP305: Digital Logic
+LBP306: Security Key
+LBP307: Data Encode
+LBP308: One Time Password
+LBP309: Nearest paliandrome
+LBP310: FizzBuzz

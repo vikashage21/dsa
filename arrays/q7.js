@@ -8,6 +8,7 @@ function sumOfMaxAndMin(arr) {
     let maxSum = 0;
     let minSum = 0;
     for (let i = 0; i <= arr.length - 1; i++) {
+
         sum += arr[i];
         if (arr[i] > max) {
             max = arr[i]
@@ -15,6 +16,7 @@ function sumOfMaxAndMin(arr) {
         if (arr[i] < min) {
             min = arr[i]
         }
+
     }
 
     maxSum = sum - min
@@ -35,4 +37,4 @@ console.log(res)
 // find the sum of array element
 // find min and max
 // maxsum = sum - min
-// minsum = sum - max
+// minsum = sum - max 
